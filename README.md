@@ -1,1 +1,1 @@
-<h2> In Java , Lets start with  <img src="https://media.giphy.com/media/pVUPZS2Vj5GXfdBeKs/giphy.gif" width="50"> Concepts</h2>
+<h2> In Java , Let's start with  <img src="https://media.giphy.com/media/pVUPZS2Vj5GXfdBeKs/giphy.gif" width="50"> Concepts.</h2>
