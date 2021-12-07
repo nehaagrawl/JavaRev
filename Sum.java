@@ -1,10 +1,10 @@
 //Sum of two number
 class Sum{
-    public static void main(String args[])
-    {
-        int a=10, b=3, sum;
-        sum=a+b;
-        System.out.println("Sum of two number= "+sum);
-
+    
+    public static void main(String args[]){
+        int n=5, sum;
+       
+        sum=n*(n+1)/2;
+     
+    System.out.println("sum : "+sum);}
     }
-}
